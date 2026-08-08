@@ -1,0 +1,9 @@
+FoamFile
+{
+    version     2.0;
+    format      ascii;
+    class       dictionary;
+    object      surfaceFeaturesDict;
+}
+surfaces ("ahmed_35deg_m.stl");
+includedAngle   150;

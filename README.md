@@ -2,6 +2,7 @@
 
 Simulação de CFD (OpenFOAM 12) do corpo de Ahmed (35° slant) com pós-processamento
 de streamlines no ParaView, como base para peça de arte conceitual automotiva.
+![Render final](render_final.jpg)
 
 ## Pipeline
 1. **Geometria**: corpo de Ahmed (ahmed-bluff-body-cfd), STL watertight validado
